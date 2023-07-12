@@ -12,10 +12,11 @@
  
  ## Description 
  A easy to read and understand way to find new books to read!
+ ![screenshot of webpage](/assets/images/screenshot.png?raw=true " ")
        
  
  ## Installation 
- Navigate to the deployed link [Here](https://github.com/GameW1zard)
+ Navigate to the deployed link [Here](https://wizgooglebooksearch-91e9bc9a43bf.herokuapp.com/)
  
  ## Usage 
  Search for new books to read and save them to your account to find later!
